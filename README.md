@@ -18,12 +18,12 @@ once, help everyone.
 
 ## Roadmap
 
-- [x] Part 1: Setup & accounts
-- [ ] Part 2: Auth & users (university-email signup)
-- [ ] Part 3: Data & storage (courses and papers tables)
-- [ ] Part 4: Upload flow
-- [ ] Part 5: Browse & search
-- [ ] Part 6: Quality & launch
+- Part 1: Setup & accounts
+- Part 2: Auth & users (university-email signup)
+- Part 3: Data & storage (courses and papers tables)
+- Part 4: Upload flow
+- Part 5: Browse & search
+- Part 6: Quality & launch
 
 ## License
 
