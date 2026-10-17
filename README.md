@@ -1,7 +1,11 @@
 # PaperHub
 
+**Less Panic. More Past Papers.**
+
 A campus past-paper and notes hub for university students. Upload past papers
 once, help everyone.
+
+Live: https://paperhub-eight.vercel.app
 
 ## Stack
 
@@ -18,13 +22,12 @@ once, help everyone.
 
 ## Roadmap
 
-- Part 1: Setup & accounts
-- Part 2: Auth & users (university-email signup)
-- Part 3: Data & storage (courses and papers tables)
-- Part 4: Upload flow
-- Part 5: Browse & search
-- Part 6: Quality & launch
--
+- [x] Part 1: Setup & accounts
+- [ ] Part 2: Auth & users (university-email signup)
+- [ ] Part 3: Data & storage (courses and papers tables)
+- [ ] Part 4: Upload flow
+- [ ] Part 5: Browse & search
+- [ ] Part 6: Quality & launch
 
 ## License
 
